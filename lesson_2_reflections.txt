@@ -10,3 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	By comparing files in the working area with the staging area I can be sure that only 
 	files of logical change will be included in next commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Experimental features, different languages. Branches will enable master project contuinig without being affected.
+
